@@ -1,0 +1,4 @@
+Game_name:曼德拉效应 Ⅰ;
+Game_key:TheMandelaEffect1;
+Title_bgm:;
+Title_img:englishaddclass1.jpg;
