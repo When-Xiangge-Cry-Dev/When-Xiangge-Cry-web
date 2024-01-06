@@ -1,0 +1,8 @@
+Game_name:祥阁鸣泣之时·2023;
+Game_key:WhenXianggeCry2023;
+Title_img:Start/nnightxg.png;
+Title_bgm:newtest114514-16.mp3;
+Textbox_theme:standard;
+Package_name:game.whenxianggecry.2023;
+Game_Logo:Start/xgmqzsqdt.png|Start/xgmqzsqdt3.png;
+Description:;

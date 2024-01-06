@@ -1,0 +1,2 @@
+intro:你好，|请确保你已明确知晓：|本游戏存在恐怖成分。|敬请游玩。 -fontSize=large -backgroundColor=rgba(241, 241, 241, 1) -fontColor=rgba(173, 80, 80, 1) -animation=typingEffect -delayTime=2000;
+choose:我已知晓:callScene.txt|回到主页面:quitGame.txt;

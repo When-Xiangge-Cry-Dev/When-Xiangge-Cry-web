@@ -1,0 +1,3 @@
+intro:中午 11：48，|放学。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+祥阁鸣泣之时 制作开发组-XXX村民:后面还没画，就先不弄程序实现了（ -fontSize=default;
+end;

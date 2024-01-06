@@ -1,0 +1,2 @@
+intro:同志 再见。|愿能再会。 -fontSize=large -backgroundColor=rgba(235, 235, 235, 1) -fontColor=rgba(0, 0, 0, 1) -animation=revealAnimation -delayTime=1500;
+end;
